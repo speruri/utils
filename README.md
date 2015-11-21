@@ -1,3 +1,1 @@
-# utils
-
-This repo mainly containa the utility classes
+This is mainly for utility classes.
